@@ -18,7 +18,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
-		<springfox.version>2.6.1</springfox.version>
+		<springfox.version>2.10.0</springfox.version>
 		<flyway-maven-version>5.2.4</flyway-maven-version>
 		<start-class>com.coviam.sample.SampleApplication</start-class>
 		<dozer.version>5.5.1</dozer.version>
